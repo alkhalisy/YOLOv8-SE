@@ -78,7 +78,7 @@ from ultralytics.utils.torch_utils import (
     time_sync,
 )
 from ultralytics.nn.modules.conv import ResBlockSqEx
-from ultralytics.nn.modules.conv import SqEx GAM_Attention
+from ultralytics.nn.modules.conv import SqEx
 from ultralytics.nn.modules.conv import GAM_Attention
 try:
     import thop
